@@ -27,3 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Treinamento Angular - Landing Page.
+
+Link do projeto no Figma:
+* https://www.figma.com/file/JbHAcivlz9PqqnWfzoZU8W?embed_host=notion&kind=file&mode=design&node-id=2265%3A58&t=6T5KMYqtOpX6rQQs-1&type=design&viewer=1
